@@ -14,7 +14,7 @@ Ideal para:
 ## 🛠️ Instruções
 
 ### Pré-requisitos
-- Simulador **NeanderX3** (pode ser o do [professor Falco](http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5346/SimuladorNeander3.html) ou similares)
+- Simulador **NeanderX3** 
 
 ### Como rodar
 
